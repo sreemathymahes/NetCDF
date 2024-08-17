@@ -1,0 +1,7 @@
+In oceanography, multidimensional data structures like climate, salinity, and temperature data are frequently used. Such data is difficult to store in text files since doing so would use a significant amount of memory and take a long time to read, write, and process. NetCDF4 is one of the best tools for handling such data. The information is kept in HDF5 format (Hierarchical Data Format). The HDF5 is made to accommodate a lot of data. The University Corporation for Atmospheric Research's Unidata Program is the home of the project known as NetCDF (UCAR).
+
+In this chapter is going to give a brief on
+
+Reading NetCDF data
+Accessing the Dataset via OPeNDAP
+Reading and analyzing NetCDF data with the help of Xarray
